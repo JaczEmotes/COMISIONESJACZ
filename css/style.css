@@ -1,4 +1,4 @@
- * {
+* {
   margin: 0;
   padding: 0;
   border: 0;
@@ -137,7 +137,7 @@ a:hover {
   float: none;
   display: inline-block;
   vertical-align: top;
-  padding: 10px 90px;
+  padding: 10px 50px;
   width: 250px;
 }
 
@@ -374,3 +374,4 @@ footer.second p, .second a {
     width: 95%;
   }
 }
+
